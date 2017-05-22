@@ -1,0 +1,91 @@
+@charset "utf-8";
+/* CSS Document */
+
+#BASE {
+	height: 1000px;
+	width: 1340px;
+	margin-right: auto;
+	margin-left: auto;
+}
+#BASE #CABECERA {
+	height: 200px;
+	width: 1340px;
+}
+#BASE #CABECERA #LOGO {
+	float: left;
+	height: 200px;
+	width: 200px;
+	background-image: url(IMAGENES/cbezera/CAB-LOGO.jpg);
+}
+#BASE #CABECERA #BANNER {
+	float: left;
+	height: 200px;
+	width: 800px;
+	background-image: url(IMAGENES/cbezera/CABECERA-BANNER.jpg);
+}
+#BASE #FOTO_ANIMADA {
+}
+#BASE #BOTONES {
+	height: 50px;
+	width: 1340px;
+}
+#BASE #CUERPO {
+	height: 730px;
+	width: 1340px;
+}
+#BASE #CUERPO #VERTICAL {
+	float: left;
+	height: 730px;
+	width: 300px;
+}
+#BASE #CUERPO #VERTICAL #MENU {
+	height: 430px;
+	width: 300px;
+}
+#BASE #CUERPO #VERTICAL #OPCION {
+	height: 300px;
+	width: 300px;
+}
+#BASE #CUERPO #CUERPO_2 {
+	height: 730px;
+	width: 600px;
+	float: left;
+}
+#BASE #CUERPO #PUBLICO {
+	float: right;
+	height: 730px;
+	width: 440px;
+}
+#BASE #CUERPO #PUBLICO #PUBLI1 {
+	height: 210px;
+	width: 440px;
+}
+#BASE #CUERPO #PUBLICO #PUBL_2 {
+	height: 210px;
+	width: 440px;
+}
+#BASE #CUERPO #PUBLICO #COMENTARIOS {
+	height: 310px;
+	width: 440px;
+}
+#BASE #CUERPO #PIE_PAGINA {
+	height: 20px;
+	width: 1340px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+#BASE #CABECERA #FOTO {
+	float: right;
+	height: 200px;
+	width: 340px;
+}
